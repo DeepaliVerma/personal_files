@@ -4,4 +4,4 @@
 3. Download_NC_videos : File to Download News captioning videos (two datasets)
 4. StyleNet: StyleNet image captioning implementation (Flicker style dataset)(tensorflow)
 5. Image Denoise MNIST: keras code for denoising concept in mnist dataset
-6. 
+6. Scene Detetction: keras code for scene detection in image
